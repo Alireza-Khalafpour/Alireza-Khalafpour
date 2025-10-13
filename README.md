@@ -1,16 +1,37 @@
-## Hi there 👋
+🧑‍💻 About Me
 
-<!--
-**Alireza-Khalafpour/Alireza-khalafpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Alireza Khalafpour, a passionate developer who loves building modern web apps, automation tools, and efficient backend systems.
+I enjoy exploring new technologies, solving real-world problems, and continuously improving my skills.
 
-Here are some ideas to get you started:
+🚀 Currently working on: web automation & vehicle dealership tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning more about: Next.js, Puppeteer, and cloud deployment
+
+💡 I like to work with: JavaScript, Node.js, Python, and React
+
+⚡ Fun fact: I love turning complex ideas into simple, working code.
+
+🛠️ Tech Stack
+
+💻 Languages: JavaScript, TypeScript, Python, HTML, CSS
+⚙️ Frameworks: React, Next.js, Express, Node.js
+🗄️ Databases: MongoDB, PostgreSQL, MySQL
+🧰 Tools & Platforms: Git, Docker, AWS, Puppeteer
+
+📊 GitHub Stats
+<div align="center">
+
+
+
+
+</div>
+🌐 Connect With Me
+
+
+
+
+
+
+✨ Quote
+
+“Code is like humor. When you have to explain it, it’s bad.” — Cory House
