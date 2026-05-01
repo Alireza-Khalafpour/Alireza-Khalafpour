@@ -4,6 +4,10 @@
 <h3 align="center">🚀 Full‑Stack Developer | 🤖 AI Enthusiast | 🌍 Open Source Lover</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
