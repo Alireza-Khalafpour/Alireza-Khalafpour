@@ -101,8 +101,9 @@ Full‑stack analytics platform
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alireza-Khalafpour/Alireza-Khalafpour/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Alireza-Khalafpour/Alireza-Khalafpour/output/snake-dark.svg" />
 </p>
+
 
 ---
 
